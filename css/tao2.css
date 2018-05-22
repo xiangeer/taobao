@@ -1,0 +1,536 @@
+@charset "UTF-8";
+/* CSS Document */
+	.center{
+		margin-top: 25px;
+		height: 3281px;
+	}	.cl{
+			width: 787px;
+			height: 3279px;
+			margin-right: 22px;
+			border:1px solid #000;
+		}
+			.cld1{
+				height: 50px;
+				border-bottom: 1px solid #000;
+			}
+				.cld1 h3{
+					line-height: 50px;
+					margin-left: 22px;
+				}
+				.cld1 p{
+					line-height: 50px;
+					margin-right: 35px;
+					font-size: 10px;
+				}
+			.cld2{
+				width: 393px;
+				height: 268px;
+				border-bottom: 1px solid #000;
+				border-right: 1px solid #000;
+			}
+			.cld3{
+				width: 393px;
+				height: 268px;
+				border-bottom: 1px solid #000;
+			}
+			.cld4{
+				width: 393px;
+				height: 268px;
+				border-right: 1px solid #000;
+			}
+			.cld5{
+				width: 393px;
+				height: 268px;
+			}
+			.clp1{
+				margin-left: 10px;
+				margin-top: 23px;
+				font-size: 14px;
+				color: #000;
+				margin-bottom: 14px;
+			}
+				.clp1 span{
+					width: 3px;
+					height: 15px;
+					background-color: #FF4400;
+					display: inline-block;
+					margin-right: 10px;
+				}
+				.cld11{
+					width: 149px;
+					height: 190px;
+					margin-left: 30px;
+				}
+				.cld12{
+					width: 149px;
+					height: 190px;
+					margin-left: 30px;
+				}
+					.clp2{
+						text-align: center;
+						font-size: 12px;
+						margin:10px 0 18px 0;
+					}
+					.clp3 a{
+						font-size: 10px;
+						color: #000;
+					}
+						.clp3 a:hover{
+							color: #FF4400;
+						}
+					.clp3 span{
+						font-size: 12px;
+					}
+				.cld6{
+					width: 168px;
+					height: 191px;
+					margin-left: 30px;
+				}
+					.cld6 div{
+						width: 100%;
+						height: 60px;
+					}
+						.cld6 div .cldp1{
+							font-size: 12px;
+							text-align: center;
+							padding-top: 16px;
+							color: #000;
+							font-weight: bold;
+						}
+						.cld6 div .cldp2{
+							font-size: 12px;
+							text-align: center;
+							padding-top: 8px;
+							color: #999;
+						}
+				.cld7{
+					width: 177px;
+					height: 191px;
+					margin-left: 5px;
+				}
+					.cld7 div{
+						height: 93px;
+						margin-bottom: 18px;
+					}
+						.cld7 div img{
+							width: 55px;
+							height: 55px;
+						}
+					.cld7 .cld71{
+						margin-right: 7px;
+					}
+						.cld71 p{
+							font-size: 12px;
+						}
+					.cld7 ul{
+						width: 161px;
+						height: 66px;
+						border:1px dashed #000;
+						margin-top: 30px;
+					}
+						.cld7 ul li{
+							width: 49%;
+							height: 49%;
+							border-bottom: 1px dashed #000;
+							border-right: 1px dashed #000;
+							float: left;
+							font-size: 12px;
+							text-align: center;
+							line-height: 32px;
+						}
+							.cld7 ul li:hover{
+								color: #FF4400;
+							}
+				.cld8{
+					width: 139px;
+					height: 188px;
+					margin-left: 37px;
+				}
+					.cldp3{
+						font-size: 12px;
+						margin-left: 10px;
+						padding-top: 10px;
+						color: #000;
+						font-weight: bold;
+					}
+					.cld8 p a{
+						font-size: 10px;
+						color: #000;
+						margin-right: 2px;
+					}
+						.cld8 p a:hover{
+							color: #FF4400;
+						}
+					.cld8 p span{
+						font-size: 12px;
+						color: #000;
+					}
+					.cspan{
+						font-size: 12px;
+						color: #000;
+						margin-left: -5px;
+						margin-right: -5px;
+					}
+					.cspan1{
+						font-size: 12px;
+						color: #000;
+						margin-left: 3px;
+						margin-right: 3px;
+					}
+				.cld9{
+					width: 172px;
+					height: 188px;
+					border-left: 1px dashed #ccc;
+					margin-right: 24px;
+				}
+					.cld9 div{
+						width: 167px;
+						height: 93px;
+						margin-left: 5px;
+						border-bottom: 1px dashed #ccc;
+					}
+						.cld9 .cldp4{
+							font-size: 12px;
+							margin-left: 9px;
+							padding-top: 38px;
+							font-weight: bold;
+						}
+						.cld9 .cldp5{
+							font-size: 10px;
+							margin-left: 9px;
+							margin-top: 8px;
+							color: #ccc;
+						}
+						.cld9 img{
+							width: 63px;
+							height: 63px;
+							margin-left: 15px;
+							margin-top: 16px;
+						}
+					.cld10{
+						width: 346px;
+						height: 90px;
+						margin-left: 24px;
+						background-color: #F6F6F6;
+					}
+						.cld10 img{
+							width: 167px;
+							height: 90px;
+						}
+						.cld101{
+							width: 131px;
+							height: 69px;
+							margin-left: 11px;
+							margin-right: 36px;
+							margin-top: 21px;
+						}
+							.cld101 a{
+								font-size: 12px;
+								font-weight: bold;
+								color: #000;
+							}
+							.cld101 p{
+								font-size: 10px;
+								color: #ccc;
+								margin-top: 10px;
+							}
+					.yx1{
+						width: 346px;
+						margin-left: 24px;
+						margin-top: 20px;
+					}
+						.yx1 ul{
+							height: 49px;
+							width: 345px;
+							border-bottom:1px dashed #ccc;
+						}
+							.yx1 ul li{
+								font-size: 12px;
+								line-height: 25px;
+								background: url(../image/tao128.png) no-repeat left center;
+								padding-left: 10px;
+							}
+								.yx1 li span{
+									font-size: 8px;
+									color: #ccc;
+									margin-left: 5px;
+								}
+						.yx1 p{
+							margin-top: 10px;
+						}
+							.yx1 p a{
+								font-size: 12px;
+								color: #000;
+							}
+								.yx1 p a:hover{
+									color: #FF4400;
+								}
+							.yx1 p span{
+								font-size: 8px;
+								color: #ccc;
+							}
+		.cr{
+			width: 375px;
+		}
+			.crt{
+				height: 1273px;
+				width: 375px;
+				background-color: #F4F4F4;
+				border-top:1px solid #DDDDDD;
+				border-left:1px solid #DDDDDD;
+				position: relative;
+			}
+				.crp1{
+					font-size: 16px;
+					margin-left: 13px;
+					margin-top: 15px;
+					font-weight: bold;
+					float: left;
+				}
+				.crp2{
+					float: right;
+					font-size: 12px;
+					margin-right: 13px;
+					margin-top: 20px;
+				}
+					.crp2 a{
+						color: #000;
+						margin-right: 5px;
+					}
+				.crp3{
+					width: 205px;
+					height: 72px;
+					border-radius: 18px;
+					margin-top: 16px;
+					margin-left: 18px;
+					display: inline-block;
+					background-color: #fff;
+					padding-left: 43px;
+					padding-right: 57px;
+				}
+					.cps1{
+						font-size: 22px;
+						color: #ccc;
+					}
+					.crp3 a{
+						font-size: 12px;
+						color: #000;
+					}
+					.crp3 img{
+						margin-left: 200px;
+					}
+				.crp4{
+					font-size: 14px;
+					margin-left: 18px;
+					margin-top: -22px;
+				}
+				.crt .crp5{
+					margin-left: 18px;
+					width: 329px;
+					height: 188px;
+					border:1px solid #ccc;
+					background-color: #fff;
+					margin-bottom: 15px;
+					padding-top: 10px;
+				}
+					.cpda1{
+						font-size: 14px;
+						color: #000;
+						font-weight: bold;
+						margin-top: ;
+						margin-left: 10px;
+					}
+					.crt div span{
+						font-size: 10px;
+						color: #ccc;
+						margin-left: 15px;
+					}
+					.crt div p{
+						font-size: 12px;
+						margin-left: 12px;
+						margin-right: 24px;
+						margin-top: 10px;
+					}
+					.cpda2{
+						font-size: 12px;
+						color: #5684BC;
+					}
+					.crt div img{
+						margin-left: 15px;
+						margin-top: 10px;
+					}
+				.cpda3{
+					width: 98px;
+					height: 28px;
+					border:1px solid #ccc;
+					background-color: #fff;
+					display: inline-block;
+					text-align: center;
+					line-height: 28px;
+					font-size: 12px;
+					color: #000;
+					margin-left: 138px;
+				}
+			.crc{
+				width: 376px;
+				height: 870px;
+				border:1px solid #000;
+				margin-top: 25px;
+			}
+				.crd1 {
+					width: 221px;
+					height: 221px;
+					
+					position: relative;
+				}
+					.crd1 img{
+						width: 221px;
+						height: 221px;
+					}
+					.crd11{
+						width: 110px;
+						height: 110px;
+						
+						position: relative;
+					}
+						.crd11 img{
+							width: 110px;
+							height: 110px;
+						}
+							.crds1{
+								width: 27px;
+								height: 27px;
+								background-color: #000;
+								font-size: 14px;
+								text-align: center;
+								line-height: 27px;
+								color: #fff;
+								display: inline-block;
+								position: absolute;
+								left: 5px;
+								top: 103px;
+								opacity: .3;
+							}
+								.crds1:hover{
+									opacity: .7;
+								}
+							.crds2{
+								width: 27px;
+								height: 27px;
+								background-color: #000;
+								font-size: 14px;
+								text-align: center;
+								line-height: 27px;
+								color: #fff;
+								display: inline-block;
+								position: absolute;
+								right: 5px;
+								top: 103px;
+								opacity: .3;
+							}
+								.crds2:hover{
+									opacity: .7;
+								}
+							.crds3{
+								width: 100%;
+								height: 26px;
+								display: inline-block;
+								position: absolute;
+								left: 0;
+								bottom:0;
+								background-color: #000;
+								font-size: 12px;
+								color: #fff;
+								text-align: center;
+								line-height: 26px;
+								opacity: .5;
+							}
+							.crcp1{
+								font-size: 12px;
+								margin-top: 11px;
+							}
+							.crcp11{
+								font-size: 12px;
+								margin-top: 11px;
+							}
+								.crcp11 a{
+									color: #000;
+								}
+								.crcp11 span{
+									color: #ccc;
+								}
+								.crcp1 a{
+									color: #000;
+								}
+								.crcp1 span{
+									color: #ccc;
+								}
+									.crcp1 a:hover{
+										color: #FF4400;
+									}
+									.crcp11 a:hover{
+										color: #FF4400;
+									}
+							.crd3{
+								width: 90px;
+								height: 117px;
+								margin-right: 21px;
+								margin-bottom: 10px;
+							}
+								.crd3 img{
+									width: 90px;
+									height: 90px;
+								}
+								.crd3 p{
+									font-size: 12px;
+									text-align: center;
+									margin-top: 5px;
+								}
+								.crul1 li{
+									margin-top: 10px;
+									font-size: 12px;
+								}
+									.crul1 li i{
+										color: #FF4300;
+										margin-right: 10px;
+									}
+									.crul1 span{
+										color: #ccc;
+										margin-left: 10px;
+									}
+	.cb{
+		height: 444px;
+		margin-top: 32px;
+	}
+		.cbd1{
+			width: 128px;
+			height: 184px;
+			margin-top: 23px;
+			margin-right: 42px;
+			float: left;
+		}
+			.cbdp1{
+				font-size: 12px;
+				margin-top: 15px;
+			}
+			.cbdp2{
+				font-size: 10px;
+				color: #FF4400;
+			}
+			.cbdp3{
+				font-size: 10px;
+				color: #ccc;
+			}
+				.cbdp3 span{
+					color: #F2EEF2;
+				}
+	.img{
+		width: 728px;
+		height: 90px;
+		margin-top: 20px;
+	}
+		.img img{
+			width: 728px;
+			height: 90px;
+			margin-left: 200px;
+		}

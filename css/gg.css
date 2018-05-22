@@ -1,0 +1,41 @@
+
+@charset "utf-8";
+/* CSS Document */
+body,ul,ol,h1,h2,h3,h4,h5,h6,p{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+a{text-decoration: none;}
+.clearfix:after{ content: ""; clear: both; display: block;}
+
+.fl{ float: left;} .fr{float: right;}
+.gWidth{
+	width:1196px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mrt20{
+	margin-top: 20px;
+}
+.mrt10{
+	margin-top: 10px;
+}
+.mrt62{
+	margin-top: 62px;
+}
+.mrt50{
+	margin-top: 50px;
+}
+.mrt155{
+	margin-top: 155px;
+}
+.mrl27{
+	margin-left: 27px;
+}
+.mrl284{
+	margin-left: 284px;
+}
+.pdt20{
+	padding-top: 20px;
+}
+.pdt90{
+	padding-left: 90px;
+}
